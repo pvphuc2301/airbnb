@@ -1,0 +1,12 @@
+.dropdown-btn {
+background-color: #F7F7F7;
+padding: 12px;
+border-radius: 24px;
+display: flex;
+width: fit-content;
+}
+
+.dropdown-btn .icon {
+margin-right: 4px;
+}
+  

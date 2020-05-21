@@ -1,0 +1,27 @@
+.btn-1 {
+border: 1px solid rgba(0, 0, 0, 0.12);
+border-radius: 24px;
+}
+
+.btn-1:hover {
+    box-shadow: 0px 2px 8px rgba(0, 0, 0, 0.12);
+}
+
+.btn-2 {
+background-color: #ff385c;
+display: inline-block;
+padding: 14px 24px;
+font-size: 14px;
+border-radius: 4px;
+color: #fff;
+}
+
+.btn-2 .icon {
+float: left;
+margin-right: 4px;
+}
+
+.btn-2 > * {
+height: 18px;
+line-height: 18px;
+}
